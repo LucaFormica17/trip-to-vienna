@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+main{
+    height: 100vh;
+}
+
 header{
     background-color: rgb(248, 165, 12);
 }
