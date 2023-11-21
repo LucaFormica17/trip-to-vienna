@@ -18,7 +18,7 @@ h6{
 }
 
 .font{
-    font-size: 8px;
+    font-size: 10px;
     font-weight: bold;
 }
 
@@ -33,6 +33,6 @@ h6{
 .width-img{
     width: calc(100% - 40px);
     height: 100%;
-    margin: 20px 20px 20px 5px;
+    margin: 20px 20px 5px 20px;
     border: 2px black solid;
 }
